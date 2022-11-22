@@ -1,0 +1,27 @@
+{
+	"formulario-terapia-bilingue": {
+		"email-centro": {
+			"titulo": "formulario de Terapia Bilingue",
+			"nombre": "Nombre",
+			"genero": "Género",
+			"rut": "Rut Chileno",
+			"pasaporte": "Pasaporte",
+			"especialidad": "Especialidad - Lenguaje",
+			"pais-nacimiento": "País de Nacimiento",
+			"fecha-nacimiento": "Fecha de Nacimiento",
+			"telefono": "Teléfono",
+			"email": "E-mail",
+			"comentarios": "Comentarios",
+			"fecha": "Creación (Fecha / Hora)",
+			"pais": "País",
+			"masculino": "Masculino",
+			"femenino": "Femenino"
+		},
+		"email-paciente": {
+			"titulo": "Formulario de Terapia Bilingue Recibido",
+			"texto": "Estimado %s, hemos recibido satisfactoriamente tu E-mail",
+			"despedida": "Te contactaremos a la brevedad",
+			"saludos": "Atte"
+		}
+	}
+}

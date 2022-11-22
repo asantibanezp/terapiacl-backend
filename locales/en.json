@@ -1,0 +1,27 @@
+{
+	"formulario-terapia-bilingue": {
+		"email-centro": {
+			"titulo": "Bilingual Therapy Form",
+			"nombre": "Name",
+			"genero": "Gender",
+			"rut": "Chilean Identity Card N°",
+			"pasaporte": "Passport",
+			"especialidad": "Speciality - Language",
+			"pais-nacimiento": "Country of Birth",
+			"fecha-nacimiento": "Date of Birth",
+			"telefono": "Telephone",
+			"email": "E-mail",
+			"comentarios": "Comments",
+			"fecha": "Creation (Date / Time)",
+			"pais": "pais",
+			"masculino": "Male",
+			"femenino": "Female"
+		},
+		"email-paciente": {
+			"titulo": "Bilingual Therapy Form Received",
+			"texto": "Dear %s, we have successfully received your e-mail",
+			"despedida": "We will contact you shortly",
+			"saludos": "Best regards"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+Hola Jorge.
+
+Listos ambos puntos
+
+
+1. Número de licencia (permitir campo vacío)
+
+2. Período desde (permitir campo vacío) 
+ 2.1 "Periodo Desde" y "Cantidad de días" se muestran deshabilitados al crear el documento (la primera vez), o bien al editar si el terapeuta dejó los campos vacíos.
+ 2.2 Adicionalmente, se agregó un checkbox al lado de "Periodo Desde", que habilita/deshabilita estos campos según el profesional lo requiera.
+ 2.3 Entonces, si el terapeuta la habilita y no ingresa nada, o simplemente la deja deshabilitada, la aplicación no grabará nada. Por el contrario, si guarda algo, mostrará los datos respectivos	
+ 2.4 Antes, cuando se especificaba "Periodo Desde" más no una cantidad de días, en el PDF se mostraba el campo Periodo Hasta con la fecha del día anterior al Periodo Desde. Esto es incongruente y por tanto se solucionó; ahora no mostrará nada en este caso.
+
+
+
+Saludos.
+Andrés
